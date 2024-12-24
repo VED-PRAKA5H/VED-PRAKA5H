@@ -9,6 +9,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/vedprakash23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedprakash23" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vihastvideos21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vihastvideos21" height="30" width="40" /></a>
+
+<a href="https://www.kaggle.com/prakashve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prakashve" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
